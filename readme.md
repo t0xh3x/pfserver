@@ -56,6 +56,17 @@ Customize the following variables in the `pfserver.py` script to suit your needs
   ```
   Add or remove file names to exclude them from the directory listing.
 
+- **Header text, header image**:  
+  To use a header image instead of text comment out the line:
+  ```
+  '<img src="header.jpg"/>',
+  ```
+  and comment in:
+  ```
+  <h1>Python File Server</h1>',
+  ```
+  One or the other can be remove.
+  
 ## Usage
 
 ### Start the Server
