@@ -63,8 +63,8 @@ Customize the following variables in the `pfserver.py` script to suit your needs
   ```
   <h1>Python File Server</h1>',
   ```
-  To use a header image instead or header text comment out or remove one of them.
-  The header image is located in `pfserver_files/`.
+  To use either a header image or text, comment out or remove the other.
+  The header image file is located in `pfserver_files/`.
   
 ## Usage
 
