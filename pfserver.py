@@ -20,7 +20,7 @@ PORT_NUMBER = 8080
 # '<img src="header.jpg"/>',
 # and comment in
 # '<h1>Python File Server</h1>',
-# Alternatively one or the other can be remove.
+# One or the other can be remove.
 ######
 # Add files to exclude from dynamic listing
 #####
