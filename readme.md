@@ -61,7 +61,7 @@ Customize the following variables in the `pfserver.py` script to suit your needs
   '<img src="header.jpg"/>',
   ```
   ```
-  <h1>Python File Server</h1>',
+  '<h1>Python File Server</h1>',
   ```
   To use either a header image or text, comment out or remove the other.
   The header image file is located in `pfserver_files/`.
