@@ -22,7 +22,10 @@ PORT_NUMBER = 8080
 # '<h1>Python File Server</h1>',
 # Alternatively one or the other can be remove.
 ######
+# Add files to exclude from dynamic listing
+#####
 EXCLUDED_FILES = ['index.html', 'style.css', 'header.jpg', 'favicon.ico', 'server.pid', 'server.log']
+######
 PID_FILE = os.path.join(DOC_ROOT, 'server.pid')
 LOG_FILE = os.path.join(DOC_ROOT, 'server.log')
 
