@@ -35,8 +35,9 @@
 git clone https://github.com/t0xh3x/pfserver.git
 ```
 ![Download](https://github.com/t0xh3x/pfserver/archive/refs/heads/main.zip)
-3. Place files in the desired directory.
-4. Make `pfserver.py` executable: `chmod +x pfserver.py`. 
+
+2. Place files in the desired directory.
+3. Make `pfserver.py` executable: `chmod +x pfserver.py`. 
 
 ## Configuration
 
