@@ -20,9 +20,9 @@ PORT_NUMBER = 8080
 # '<img src="header.jpg"/>',
 # and comment in
 # '<h1>Python File Server</h1>',
-# One or the other can be remove.
+# One or the other can be removed.
 ######
-# Add files to exclude from dynamic listing
+# Add files to exclude from dynamic listing.
 #####
 EXCLUDED_FILES = ['index.html', 'style.css', 'header.jpg', 'favicon.ico', 'server.pid', 'server.log']
 ######
