@@ -1,0 +1,14 @@
+{
+    "doc_root": "/path/to/pfserver_files",
+    "port": 8080,
+    "excluded_files": [
+        "style.css",
+        "header.jpg",
+        "favicon.ico",
+        "server.pid",
+        "server.log"
+    ],
+    "header_image": 0,
+    "header_text": "pfserver",
+    "header_image_file": "header.jpg"
+}
